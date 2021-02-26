@@ -1,0 +1,20 @@
+{
+	"name": "asas-virtuais-airtable",
+	"version": "1.0.0",
+	"description": "Personal library of TypeScript code",
+	"main": "lib/index.js",
+	"typings": "lib/index.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/icaro-capobianco/asas-virtuais-ts.git"
+	},
+	"scripts": {
+		"watch": "tsc --watch"
+	},
+	"author": "Ícaro C. Capobianco",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/icaro-capobianco/asas-virtuais-ts/issues"
+	},
+	"homepage": "https://github.com/icaro-capobianco/asas-virtuais-ts#readme"
+}
